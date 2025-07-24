@@ -1,0 +1,43 @@
+*{
+    margin: auto;
+}
+body{
+    background-color: rgb(137, 223, 223);
+}
+.mother{
+    background-color: rgb(202, 165, 135);
+    height: 300px;
+    width: 400px;
+    padding: 50px;
+    box-shadow: 2px 3px; color: blue;
+}
+h1{ 
+    color: blue;
+    padding-left: 75px;
+}
+h3{
+    color: blue;
+    padding-left: 20px;
+}
+h2{
+    color: rgb(62, 62, 177);
+    padding-left: 112px;
+}
+h4{
+    color: rgb(95, 95, 224);
+padding-left: 115px;}
+.mother2{
+    background-color: rgb(202, 165, 135);
+    height: 50px;
+    width: 400px;
+    padding:50px;
+    box-shadow: 2px 3px; color: rgb(109, 109, 129); 
+    
+}
+.image{
+    padding: 25px 100px;
+    border-radius: 50%;
+}
+#role{
+    padding:25px 100px;
+}
